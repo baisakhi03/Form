@@ -1,0 +1,30 @@
+form{
+    text-align: center;
+    position: relative;
+    left: 35%;
+}
+
+
+div{
+    border: 2px solid black;
+    width:450px;
+    background-color: rgb(255, 225, 181);
+    padding: 5px;
+    border-radius: 40px;
+ 
+}
+button{
+    background-color: rgb(255, 255, 255);
+
+    
+}
+button:hover{
+background-color: rgb(132, 119, 219);
+}
+.input-form{
+    margin: 10px;
+    background-color: rgb(224, 223, 223);
+}
+.input-form:hover{
+    background-color: rgb(82, 156, 156);
+}
